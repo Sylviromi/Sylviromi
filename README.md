@@ -40,9 +40,3 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sylviromi/Sylviromi/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Sylviromi.Sylviromi&"  />
-</div>
